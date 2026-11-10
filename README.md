@@ -4,10 +4,10 @@ O app de celular do **LightNote**: as notas do seu espaço de trabalho no telefo
 lidas pelo **mesmo núcleo** do aplicativo do computador. Este repositório guarda só os
 **downloads** do app Android; o código-fonte é mantido num repositório privado.
 
-> ⚠️ **Esta é uma prévia gratuita, distribuída só por aqui.** Quando o LightNote chegar à
-> **Google Play**, ele será um app **pago, com preço único** (ainda não definido). A prévia
-> não dá direito à versão da loja, e os APKs deste repositório podem deixar de ser
-> atualizados depois do lançamento.
+> ℹ️ **O LightNote para Android é gratuito, para uso pessoal e comercial**, sob a mesma
+> licença do app do computador. Hoje ele é uma prévia distribuída por aqui, fora da Google
+> Play; quando chegar à **Google Play**, continuará **gratuito**, e o APK seguirá sendo
+> publicado neste repositório.
 
 ## ⬇️ Baixar
 
@@ -72,10 +72,10 @@ autoritativa) · [English](https://github.com/nglczr/LightNote-Community/blob/ma
 **LightNote for Android** — your LightNote notes on the phone, written and read by the same
 core as the desktop app. This repository only hosts the Android **downloads**.
 
-> ⚠️ **This is a free preview, distributed only here.** When LightNote reaches **Google
-> Play**, it will be a **paid app with a one-time price** (not yet set). The preview does not
-> include the store version, and the APKs in this repository may stop being updated after
-> the launch.
+> ℹ️ **LightNote for Android is free, for personal and commercial use**, under the same
+> license as the desktop app. Today it is a preview distributed here, outside Google Play;
+> when it reaches **Google Play**, it will stay **free**, and the APK will still be published
+> in this repository.
 
 - **Download:** [latest release](https://github.com/nglczr/LightNote-Android/releases/latest)
   — Android 9 or newer, 64-bit ARM phone.
